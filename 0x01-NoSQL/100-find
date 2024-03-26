@@ -1,0 +1,2 @@
+//List all documents starting with a given name in a collection
+db.school.find({name: /^Holberton/i})
