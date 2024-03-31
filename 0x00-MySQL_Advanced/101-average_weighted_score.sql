@@ -1,3 +1,4 @@
+-- A stored procedure that computes average weighted score for all students
 DELIMITER //
 
 CREATE PROCEDURE ComputeAverageWeightedScoreForUsers()
